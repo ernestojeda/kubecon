@@ -61,3 +61,15 @@
 - Cloud native first
 - Single binary install, 512mb of RAM. Can run on a Raspberry Pi
 - Super multi-tenant cluster. Using libvirt to launch VM inside a pod
+
+### Level Unlocked: GitOps to the Edge and Infrastructure Provisioning - Katie Gamanji, Cloud Native Computing Foundation
+
+[Recording](https://kubecon-cloudnativecon-na.com/session-virtual/?v26dd132ae80017cdaf764437c30ebe6f10c1b1eeaab01165e44366654b368dfaeab6baf7e386a642ecb238989334530e=E28FDC39A9250D0DC682EA3AB8B0BE61CE7631653C234F82C312DC0C28B6C21632C1C44847873B32FABF153AE25EFF92&fromFollowed)
+
+- [Code](https://github.com/kgamanji/cluster-api-helm-chart)
+- Use CRD's (Custom Resource Defenitions) to deploy cloud agnostic Kubernetes clusters
+- Uses a management Kubernetes cluster to deploy CRD's
+- Can define cluster with IaC (Infrastructure-as-Code)
+- Uses helm and flux to apply changes
+- Second part of the demo introduced a [KubeEdge](https://kubeedge.io/en/) component I did not understand
+
