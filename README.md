@@ -1,6 +1,6 @@
 # KubeCon 2021
 
-![](./kubecon.jpeg)
+![kubecon2021](./kubecon.jpeg)
 
 ## Key Themes
 
@@ -9,6 +9,7 @@
   - [Kui](https://github.com/kubernetes-sigs/kui)
 - Decision criteria for platform build vs buy will get more attention over the next year
 - Multi-cloud - Different Kubernetes clusters across different cloud platforms. Seemed to hear more chatter about this again.
+- Kubernetes landscape is [huge](https://landscape.cncf.io/images/landscape.png)!
 
 ## Learning
 
